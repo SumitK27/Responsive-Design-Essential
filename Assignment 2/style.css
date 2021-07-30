@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/167-1677724_technology-website-background-images-hd.jpg");
+}
+
+.container {
+    background-color: antiquewhite;
+    margin: 5%;
+    min-height: 80vh;
+    border: 2px dashed;
+    border-radius: 10px;
+}
+
+.title {
+    padding: 20px;
+    font-size: 20px;
+    color: #645e56;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.content {
+    padding: 20px 50px;
+}
+
+a:visited {
+    color: rgb(155, 0, 245);
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: red;
+}
