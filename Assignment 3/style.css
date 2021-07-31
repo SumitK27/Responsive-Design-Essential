@@ -116,3 +116,8 @@ h4 {
     color: white;
     font-size: 40px;
 }
+
+.fab:hover {
+    color: rgb(197, 197, 197);
+}
+
